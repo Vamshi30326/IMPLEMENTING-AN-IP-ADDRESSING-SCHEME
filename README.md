@@ -1,0 +1,2 @@
+# IMPLEMENTING-AN-IP-ADDRESSING-SCHEME
+The number of machines you expect to support will affect several decisions you will need to make at this stage of setting up a network for your site. we propose Implementing IP addressing scheme. An addressing scheme is clearly a requirement for communications in a computer network. With an addressing scheme, packets are forwarded from one location to another.
